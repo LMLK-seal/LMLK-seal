@@ -1,4 +1,3 @@
-# Welcome, to the desert, of the real.
 
 ## 🎯 Projects
 
